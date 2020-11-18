@@ -1,0 +1,13 @@
+2020-10-24:09-48-45: Starting Client log for BCU1114
+2020-10-24:09-48-45: Your requests will go to server: BC
+2020-10-24:09-48-57: Puchase Item: BC1111 completed successfully
+2020-10-24:09-49-43: Starting Client log for BCU1114
+2020-10-24:09-49-43: Your requests will go to server: BC
+2020-10-24:09-49-54: Puchase Item: BC1212 completed successfully
+2020-10-24:09-59-54: Starting Client log for BCU1114
+2020-10-24:09-59-54: Your requests will go to server: BC
+2020-10-24:10-00-14: No stock for item BC1111
+2020-10-24:10-00-20: Adding user on waiting list for Item: BC1111
+2020-10-24:10-10-01: +------------------------------+
+2020-10-24:10-10-01: | Client - End of transactions |
+2020-10-24:10-10-01: +------------------------------+

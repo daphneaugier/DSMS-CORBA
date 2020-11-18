@@ -1,0 +1,2 @@
+2020-10-24:09-10-41: Starting Client log for ONU1112
+2020-10-24:09-10-41: Your requests will go to server: ON

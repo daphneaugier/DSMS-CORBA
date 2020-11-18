@@ -1,0 +1,12 @@
+2020-10-24:10-39-21: Starting Client log for ONU2222
+2020-10-24:10-39-21: Your requests will go to server: ON
+2020-10-24:10-48-09: Starting Client log for ONU2222
+2020-10-24:10-48-09: Your requests will go to server: ON
+2020-10-24:10-48-20: Puchase Item: ON6231 completed successfully
+2020-10-24:10-51-59: Starting Client log for ONU2222
+2020-10-24:10-51-59: Your requests will go to server: ON
+2020-10-24:10-52-11: Exchange Item completed 
+2020-10-24:10-52-54: Starting Client log for ONU2222
+2020-10-24:10-52-54: Your requests will go to server: ON
+2020-10-24:10-53-26: Starting Client log for ONU2222
+2020-10-24:10-53-26: Your requests will go to server: ON

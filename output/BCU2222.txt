@@ -1,0 +1,12 @@
+2020-10-24:10-49-02: Starting Client log for BCU2222
+2020-10-24:10-49-02: Your requests will go to server: BC
+2020-10-24:10-58-04: Starting Client log for BCU2222
+2020-10-24:10-58-04: Your requests will go to server: BC
+2020-10-24:10-59-34: Starting Client log for BCU2222
+2020-10-24:10-59-34: Your requests will go to server: BC
+2020-10-24:11-02-31: Starting Client log for BCU2222
+2020-10-24:11-02-31: Your requests will go to server: BC
+2020-10-24:11-03-28: Starting Client log for BCU2222
+2020-10-24:11-03-28: Your requests will go to server: BC
+2020-10-24:11-05-46: Starting Client log for BCU2222
+2020-10-24:11-05-46: Your requests will go to server: BC

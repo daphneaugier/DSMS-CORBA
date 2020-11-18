@@ -1,0 +1,72 @@
+2020-10-24:03-55-31:  = Starting QC Server
+2020-10-24:03-56-33:  === addItem was called on server QC by user QCM1212
+2020-10-24:03-56-33:   - itemID  : QC0001
+2020-10-24:03-56-33:   - itemName: QC test 1
+2020-10-24:03-56-33:   - quantity: 156
+2020-10-24:03-56-33:   - price   : 125.6
+2020-10-24:03-59-48:  = Starting QC Server
+2020-10-24:07-39-16:  = Starting QC Server
+2020-10-24:07-42-00:  === addItem was called on server QC by user QCM1111
+2020-10-24:07-42-00:   - itemID  : QC1234
+2020-10-24:07-42-00:   - itemName: TEA
+2020-10-24:07-42-00:   - quantity: 1
+2020-10-24:07-42-00:   - price   : 30.0
+2020-10-24:07-42-57:  === addItem was called on server QC by user QCM1111
+2020-10-24:07-42-57:   - itemID  : QC1111
+2020-10-24:07-42-57:   - itemName: XYZ
+2020-10-24:07-42-57:   - quantity: 1
+2020-10-24:07-42-57:   - price   : 40.0
+2020-10-24:07-43-11: listItem was called on server QC for manager: QCM1111
+2020-10-24:08-09-39:  = Starting QC Server
+2020-10-24:08-10-10:  = Starting QC Server
+2020-10-24:08-32-20:  = Starting QC Server
+2020-10-24:08-57-58:  = Starting QC Server
+2020-10-24:09-04-45:  = Starting QC Server
+2020-10-24:09-05-12:  = Starting QC Server
+2020-10-24:09-19-44:  = Starting QC Server
+2020-10-24:09-20-40:  = Starting QC Server
+2020-10-24:09-20-40:  = purchaseItem was called on server QC for customer: ONU1113 and item: QC1234
+2020-10-24:09-20-40:  - User ONU1113 has cash 20.0
+2020-10-24:09-20-40:  - There are 1 item(s) QC1234 in stock
+2020-10-24:09-20-40:  1 User ONU1113 cannot afford item QC1234
+2020-10-24:09-59-26:  = Starting QC Server
+2020-10-24:10-12-35:  = Starting QC Server
+2020-10-24:10-22-47:  = Starting QC Server
+2020-10-24:10-30-03:  = Starting QC Server
+2020-10-24:10-32-34:  === addItem was called on server QC by user QCM1111
+2020-10-24:10-32-34:   - itemID  : QC6231
+2020-10-24:10-32-34:   - itemName: DS
+2020-10-24:10-32-34:   - quantity: 2
+2020-10-24:10-32-34:   - price   : 30.0
+2020-10-24:10-35-44:  = Starting QC Server
+2020-10-24:10-36-26:  = Starting QC Server
+2020-10-24:10-37-27:  === addItem was called on server QC by user QCM2222
+2020-10-24:10-37-27:   - itemID  : QC6231
+2020-10-24:10-37-27:   - itemName: DS
+2020-10-24:10-37-27:   - quantity: 2
+2020-10-24:10-37-27:   - price   : 30.0
+2020-10-24:10-37-59:  === addItem was called on server QC by user QCM2222
+2020-10-24:10-37-59:   - itemID  : QC6651
+2020-10-24:10-37-59:   - itemName: ADT
+2020-10-24:10-37-59:   - quantity: 2
+2020-10-24:10-37-59:   - price   : 30.0
+2020-10-24:10-38-18: listItem was called on server QC for manager: QCM2222
+2020-10-24:10-39-33:  = Starting QC Server
+2020-10-24:10-39-33:  = purchaseItem was called on server QC for customer: ONU2222 and item: QC6231
+2020-10-24:10-39-33:  - User ONU2222 has cash 1000.0
+2020-10-24:10-39-33:  - There are 2 item(s) QC6231 in stock
+2020-10-24:10-39-33:  0 Purchase completed successfully on server QC for customer: ONU2222 and item: QC6231
+2020-10-24:10-47-53:  = Starting QC Server
+2020-10-24:10-49-58:  = Starting QC Server
+2020-10-24:10-51-32:  = Starting QC Server
+2020-10-24:10-52-11:  = Starting QC Server
+2020-10-24:10-52-11:  = purchaseItem was called on server QC for customer: ONU2222 and item: QC6651
+2020-10-24:10-52-11:  - User ONU2222 has cash 960.0
+2020-10-24:10-52-11:  - There are 2 item(s) QC6651 in stock
+2020-10-24:10-52-11:  0 Purchase completed successfully on server QC for customer: ONU2222 and item: QC6651
+2020-10-24:10-59-17:  = Starting QC Server
+2020-10-24:11-02-47:  = Starting QC Server
+2020-10-24:11-02-47:  = purchaseItem was called on server QC for customer: BCU2222 and item: QC6651
+2020-10-24:11-02-47:  - User BCU2222 has cash 1000.0
+2020-10-24:11-02-47:  - There are 1 item(s) QC6651 in stock
+2020-10-24:11-02-47:  0 Purchase completed successfully on server QC for customer: BCU2222 and item: QC6651

@@ -1,0 +1,3 @@
+2020-10-24:09-48-30: Starting Client log for BCM1112
+2020-10-24:09-48-30: Your requests will go to server: BC
+2020-10-24:09-48-32: List item results: BC1111 TEA 1 30.0 BC1212 TEST again 123 33.0 BC0005 test BC 5 54 85.36 BC0004 test 4 bc 100 10.22 

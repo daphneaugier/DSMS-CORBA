@@ -1,0 +1,88 @@
+2020-10-24:03-55-25:  = Starting ON Server
+2020-10-24:03-56-01:  === addItem was called on server ON by user ONM4455
+2020-10-24:03-56-01:   - itemID  : ON0001
+2020-10-24:03-56-01:   - itemName: ON test 1
+2020-10-24:03-56-01:   - quantity: 1000
+2020-10-24:03-56-01:   - price   : 10.0
+2020-10-24:03-59-42:  = Starting ON Server
+2020-10-24:04-08-32:  === addItem was called on server ON by user ONM1212
+2020-10-24:04-08-32:   - itemID  : ON1212
+2020-10-24:04-08-32:   - itemName: TEST
+2020-10-24:04-08-32:   - quantity: 12
+2020-10-24:04-08-32:   - price   : 13.3
+2020-10-24:07-39-09:  = Starting ON Server
+2020-10-24:07-43-46:  = Find was called on server ON for customer: ONU1111 and item: TEA
+2020-10-24:07-43-46:  + Find item results on local server 
+2020-10-24:08-09-23:  = Starting ON Server
+2020-10-24:08-10-10:  = Find was called on server ON for customer: ONU1111 and item: TEA
+2020-10-24:08-10-10:  + Find item results on local server 
+2020-10-24:08-17-23:  = purchaseItem was called on server ON for customer: ONU1111 and item: BC1234
+2020-10-24:08-17-23:  - User ONU1111 has cash 1000.0
+2020-10-24:08-19-55:  = purchaseItem was called on server ON for customer: ONU1111 and item: BC1234
+2020-10-24:08-19-55:  - User ONU1111 has cash 1000.0
+2020-10-24:08-32-14:  = Starting ON Server
+2020-10-24:08-32-51:  = purchaseItem was called on server ON for customer: ONU1111 and item: BC1234
+2020-10-24:08-32-51:  - User ONU1111 has cash 1000.0
+2020-10-24:08-57-50:  = Starting ON Server
+2020-10-24:08-59-12:  = purchaseItem was called on server ON for customer: ONU1111 and item: BC1234
+2020-10-24:08-59-12:  - User ONU1111 has cash 20.0
+2020-10-24:08-59-12: Purchase result from BC :  1 User ON
+2020-10-24:09-04-38:  = Starting ON Server
+2020-10-24:09-05-12:  = Find was called on server ON for customer: ONU1111 and item: TEA
+2020-10-24:09-05-12:  + Find item results on local server 
+2020-10-24:09-05-32:  = purchaseItem was called on server ON for customer: ONU1111 and item: BC1234
+2020-10-24:09-05-32:  - User ONU1111 has cash 20.0
+2020-10-24:09-08-05:  = purchaseItem was called on server ON for customer: ONU1111 and item: BC1234
+2020-10-24:09-08-05:  - User ONU1111 has cash 20.0
+2020-10-24:09-09-03:  = purchaseItem was called on server ON for customer: ONU1111 and item: BC1234
+2020-10-24:09-09-03:  - User ONU1111 has cash 20.0
+2020-10-24:09-09-03: Purchase result from BC :  1 User ONU1111 cannot afford item BC1234
+2020-10-24:09-11-05:  = purchaseItem was called on server ON for customer: ONU1112 and item: BC1234
+2020-10-24:09-11-05:  - User ONU1112 has cash 1000.0
+2020-10-24:09-19-38:  = Starting ON Server
+2020-10-24:09-20-07:  = purchaseItem was called on server ON for customer: ONU1113 and item: BC1234
+2020-10-24:09-20-07:  - User ONU1113 has cash 1000.0
+2020-10-24:09-20-07: Purchase result from BC :  0 Purchase completed successfully on server BC for customer: ONU1113 and item: BC1234
+2020-10-24:09-20-40:  = purchaseItem was called on server ON for customer: ONU1113 and item: QC1234
+2020-10-24:09-20-40:  - User ONU1113 has cash 20.0
+2020-10-24:09-20-40: Purchase result from QC :  1 User ONU1113 cannot afford item QC1234
+2020-10-24:09-59-20:  = Starting ON Server
+2020-10-24:10-12-31:  = Starting ON Server
+2020-10-24:10-22-43:  = Starting ON Server
+2020-10-24:10-29-57:  = Starting ON Server
+2020-10-24:10-31-55:  === addItem was called on server ON by user ONM1111
+2020-10-24:10-31-55:   - itemID  : ON6231
+2020-10-24:10-31-55:   - itemName: DS
+2020-10-24:10-31-55:   - quantity: 1
+2020-10-24:10-31-55:   - price   : 10.0
+2020-10-24:10-35-35:  = Starting ON Server
+2020-10-24:10-36-21:  = Starting ON Server
+2020-10-24:10-36-57:  === addItem was called on server ON by user ONM2222
+2020-10-24:10-36-57:   - itemID  : ON6231
+2020-10-24:10-36-57:   - itemName: DS
+2020-10-24:10-36-57:   - quantity: 1
+2020-10-24:10-36-57:   - price   : 10.0
+2020-10-24:10-39-33:  = purchaseItem was called on server ON for customer: ONU2222 and item: QC6231
+2020-10-24:10-39-33:  - User ONU2222 has cash 1000.0
+2020-10-24:10-39-33: Purchase result from QC :  0 Purchase completed successfully on server QC for customer: ONU2222 and item: QC6231
+2020-10-24:10-47-46:  = Starting ON Server
+2020-10-24:10-48-20:  = purchaseItem was called on server ON for customer: ONU2222 and item: ON6231
+2020-10-24:10-48-20:  - User ONU2222 has cash 970.0
+2020-10-24:10-48-20:  - There are 1 item(s) ON6231 in stock
+2020-10-24:10-48-20:  0 Purchase completed successfully on server ON for customer: ONU2222 and item: ON6231
+2020-10-24:10-49-52:  = Starting ON Server
+2020-10-24:10-51-26:  = Starting ON Server
+2020-10-24:10-52-11:  = purchaseItem was called on server ON for customer: ONU2222 and item: QC6651
+2020-10-24:10-52-11:  - User ONU2222 has cash 960.0
+2020-10-24:10-52-11: Purchase result from QC :  0 Purchase completed successfully on server QC for customer: ONU2222 and item: QC6651
+2020-10-24:10-53-05:  = Find was called on server ON for customer: ONU2222 and item: QC6651
+2020-10-24:10-53-05:  + Find item results on local server 
+2020-10-24:10-53-30:  = Find was called on server ON for customer: ONU2222 and item: DS
+2020-10-24:10-53-30:  + Find item results on local server 
+2020-10-24:10-59-10:  = Starting ON Server
+2020-10-24:10-59-44:  = Starting ON Server
+2020-10-24:10-59-44:  = purchaseItem was called on server ON for customer: BCU2222 and item: ON6231
+2020-10-24:10-59-44:  - User BCU2222 has cash 1000.0
+2020-10-24:10-59-44:  - There are  0 item ON6231 left in stock
+2020-10-24:10-59-44:  2 Out of stock for item ON6231
+2020-11-14:01-47-32:  = Starting ON Server

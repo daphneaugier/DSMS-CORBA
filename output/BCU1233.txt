@@ -1,0 +1,2 @@
+2020-10-24:10-25-29: Starting Client log for BCU1233
+2020-10-24:10-25-29: Your requests will go to server: BC

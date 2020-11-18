@@ -1,0 +1,9 @@
+2020-10-24:03-15-36: Starting Client log for BCM1234
+2020-10-24:03-15-36: Your requests will go to server: BC
+2020-10-24:03-25-03: Starting Client log for BCM1234
+2020-10-24:03-25-03: Your requests will go to server: BC
+2020-10-24:03-28-00: Starting Client log for BCM1234
+2020-10-24:03-28-00: Your requests will go to server: BC
+2020-10-24:03-37-46: Starting Client log for BCM1234
+2020-10-24:03-37-46: Your requests will go to server: BC
+2020-10-24:03-38-08:  == add Item completed

@@ -1,0 +1,2 @@
+2020-10-24:11-51-29: Starting Client log for BCM1232
+2020-10-24:11-51-29: Your requests will go to server: BC

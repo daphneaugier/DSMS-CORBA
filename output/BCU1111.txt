@@ -1,0 +1,3 @@
+2020-10-24:08-58-12: Starting Client log for BCU1111
+2020-10-24:08-58-12: Your requests will go to server: BC
+2020-10-24:08-58-23: Puchase Item: BC1234 completed successfully

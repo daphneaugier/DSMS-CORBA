@@ -1,0 +1,152 @@
+2020-10-24:02-40-07:  = Starting BC Server
+2020-10-24:02-40-35:  = Starting BC Server
+2020-10-24:03-14-10:  = Starting BC Server
+2020-10-24:03-24-49:  = Starting BC Server
+2020-10-24:03-37-34:  = Starting BC Server
+2020-10-24:03-38-08:  === addItem was called on server BC by user BCM1234
+2020-10-24:03-38-08:   - itemID  : BC0004
+2020-10-24:03-38-08:   - itemName: test 4 bc
+2020-10-24:03-38-08:   - quantity: 100
+2020-10-24:03-38-08:   - price   : 10.22
+2020-10-24:03-40-14: listItem was called on server BC for manager: BCM1111
+2020-10-24:03-40-55:  === addItem was called on server BC by user BCM1155
+2020-10-24:03-40-55:   - itemID  : BC0005
+2020-10-24:03-40-55:   - itemName: test BC 5
+2020-10-24:03-40-55:   - quantity: 54
+2020-10-24:03-40-55:   - price   : 85.36
+2020-10-24:03-50-40:  = Starting BC Server
+2020-10-24:03-51-01: listItem was called on server BC for manager: BCM5544
+2020-10-24:03-55-19:  = Starting BC Server
+2020-10-24:03-59-35:  = Starting BC Server
+2020-10-24:04-00-09: listItem was called on server BC for manager: BCM1212
+2020-10-24:04-00-50:  = Find was called on server BC for customer: BCU1212 and item: ON test 1
+2020-10-24:04-00-50:  + Find item results on local server 
+2020-10-24:04-04-54:  === addItem was called on server BC by user BCM1245
+2020-10-24:04-04-54:   - itemID  : BC1111
+2020-10-24:04-04-54:   - itemName: TEST
+2020-10-24:04-04-54:   - quantity: 12
+2020-10-24:04-04-54:   - price   : 1.0
+2020-10-24:04-09-00:  = Find was called on server BC for customer: BCU1212 and item: TEST
+2020-10-24:04-09-00:  + Find item results on local server 
+2020-10-24:04-41-06:  = Starting BC Server
+2020-10-24:04-41-32:  === addItem was called on server BC by user BCM1212
+2020-10-24:04-41-32:   - itemID  : BC1212
+2020-10-24:04-41-32:   - itemName: TEST again
+2020-10-24:04-41-32:   - quantity: 123
+2020-10-24:04-41-32:   - price   : 33.0
+2020-10-24:04-41-41: listItem was called on server BC for manager: BCM1212
+2020-10-24:07-39-00:  = Starting BC Server
+2020-10-24:07-40-09:  === addItem was called on server BC by user BCM1111
+2020-10-24:07-40-09:   - itemID  : BC1234
+2020-10-24:07-40-09:   - itemName: LAPTOP
+2020-10-24:07-40-09:   - quantity: 3
+2020-10-24:07-40-09:   - price   : 980.0
+2020-10-24:07-40-40:  === addItem was called on server BC by user BCM1111
+2020-10-24:07-40-40:   - itemID  : BC1111
+2020-10-24:07-40-40:   - itemName: TEA
+2020-10-24:07-40-40:   - quantity: 1
+2020-10-24:07-40-40:   - price   : 30.0
+2020-10-24:07-41-00: listItem was called on server BC for manager: BCM1111
+2020-10-24:08-09-15:  = Starting BC Server
+2020-10-24:08-10-10:  = Starting BC Server
+2020-10-24:08-19-11:  = Starting BC Server
+2020-10-24:08-19-55:  = Starting BC Server
+2020-10-24:08-32-09:  = Starting BC Server
+2020-10-24:08-32-51:  = Starting BC Server
+2020-10-24:08-32-51:  = purchaseItem was called on server BC for customer: ONU1111 and item: BC1234
+2020-10-24:08-32-51:  - User ONU1111 has cash 1000.0
+2020-10-24:08-32-51:  - There are 3 item(s) BC1234 in stock
+2020-10-24:08-32-51:  - Purchase completed successfully on server BC for customer: ONU1111 and item: BC1234
+2020-10-24:08-57-45:  = Starting BC Server
+2020-10-24:08-58-23:  = purchaseItem was called on server BC for customer: BCU1111 and item: BC1234
+2020-10-24:08-58-23:  - User BCU1111 has cash 1000.0
+2020-10-24:08-58-23:  - There are 2 item(s) BC1234 in stock
+2020-10-24:08-58-23:  0 Purchase completed successfully on server BC for customer: BCU1111 and item: BC1234
+2020-10-24:08-59-12:  = Starting BC Server
+2020-10-24:08-59-12:  = purchaseItem was called on server BC for customer: ONU1111 and item: BC1234
+2020-10-24:08-59-12:  - User ONU1111 has cash 20.0
+2020-10-24:08-59-12:  - There are 1 item(s) BC1234 in stock
+2020-10-24:08-59-12:  1 User ONU1111 cannot afford item BC1234
+2020-10-24:09-04-32:  = Starting BC Server
+2020-10-24:09-05-12:  = Starting BC Server
+2020-10-24:09-08-31:  = Starting BC Server
+2020-10-24:09-09-03:  = Starting BC Server
+2020-10-24:09-09-03:  = purchaseItem was called on server BC for customer: ONU1111 and item: BC1234
+2020-10-24:09-09-03:  - User ONU1111 has cash 20.0
+2020-10-24:09-09-03:  - There are 1 item(s) BC1234 in stock
+2020-10-24:09-09-03:  1 User ONU1111 cannot afford item BC1234
+2020-10-24:09-19-18:  = Starting BC Server
+2020-10-24:09-20-07:  = Starting BC Server
+2020-10-24:09-20-07:  = purchaseItem was called on server BC for customer: ONU1113 and item: BC1234
+2020-10-24:09-20-07:  - User ONU1113 has cash 1000.0
+2020-10-24:09-20-07:  - There are 1 item(s) BC1234 in stock
+2020-10-24:09-20-07:  0 Purchase completed successfully on server BC for customer: ONU1113 and item: BC1234
+2020-10-24:09-21-47: removeItem was called on server BC for manager: BCM1212 and item BC1234
+2020-10-24:09-21-57: listItem was called on server BC for manager: BCM1212
+2020-10-24:09-22-24:  = purchaseItem was called on server BC for customer: BCU1212 and item: BC1234
+2020-10-24:09-22-24:  - User BCU1212 has cash 1000.0
+2020-10-24:09-22-24:  - There are  NO item BC1234 in stock
+2020-10-24:09-45-19:  = Starting BC Server
+2020-10-24:09-48-15:  = Starting BC Server
+2020-10-24:09-48-32: listItem was called on server BC for manager: BCM1112
+2020-10-24:09-48-57:  = purchaseItem was called on server BC for customer: BCU1114 and item: BC1111
+2020-10-24:09-48-57:  - User BCU1114 has cash 1000.0
+2020-10-24:09-48-57:  - There are 1 item(s) BC1111 in stock
+2020-10-24:09-48-57:  0 Purchase completed successfully on server BC for customer: BCU1114 and item: BC1111
+2020-10-24:09-49-54:  = purchaseItem was called on server BC for customer: BCU1114 and item: BC1212
+2020-10-24:09-49-54:  - User BCU1114 has cash 970.0
+2020-10-24:09-49-54:  - There are 123 item(s) BC1212 in stock
+2020-10-24:09-49-54:  0 Purchase completed successfully on server BC for customer: BCU1114 and item: BC1212
+2020-10-24:09-59-14:  = Starting BC Server
+2020-10-24:09-59-39: listItem was called on server BC for manager: BCM1111
+2020-10-24:10-00-14:  = purchaseItem was called on server BC for customer: BCU1114 and item: BC1111
+2020-10-24:10-00-14:  - User BCU1114 has cash 937.0
+2020-10-24:10-00-14:  - There are  0 item BC1111 left in stock
+2020-10-24:10-00-14:  2 Out of stock for item BC1111
+2020-10-24:10-00-20:  = purchaseItem was called on server BC for customer: BCU1114 and item: BC1111
+2020-10-24:10-00-21:  - User BCU1114 has cash 937.0
+2020-10-24:10-00-21:  - There are  0 item BC1111 left in stock
+2020-10-24:10-00-21:  2 Out of stock for item BC1111
+2020-10-24:10-12-26:  = Starting BC Server
+2020-10-24:10-12-50:  = purchaseItem was called on server BC for customer: BCU1235 and item: BC1234
+2020-10-24:10-12-50:  - User BCU1235 has cash 1000.0
+2020-10-24:10-12-50:  - There are  NO item BC1234 in stock
+2020-10-24:10-13-17: listItem was called on server BC for manager: BCM1212
+2020-10-24:10-13-33:  = purchaseItem was called on server BC for customer: BCU1234 and item: BC0005
+2020-10-24:10-13-33:  - User BCU1234 has cash 1000.0
+2020-10-24:10-13-33:  - There are 54 item(s) BC0005 in stock
+2020-10-24:10-13-33:  0 Purchase completed successfully on server BC for customer: BCU1234 and item: BC0005
+2020-10-24:10-21-27:  = Starting BC Server
+2020-10-24:10-22-30:  = Starting BC Server
+2020-10-24:10-29-51:  = Starting BC Server
+2020-10-24:10-35-28:  = Starting BC Server
+2020-10-24:10-36-09:  = Starting BC Server
+2020-10-24:10-47-40:  = Starting BC Server
+2020-10-24:10-49-46:  = Starting BC Server
+2020-10-24:10-51-20:  = Starting BC Server
+2020-10-24:10-53-05:  = Starting BC Server
+2020-10-24:10-58-56:  = Starting BC Server
+2020-10-24:10-59-44:  = purchaseItem was called on server BC for customer: BCU2222 and item: ON6231
+2020-10-24:10-59-44:  - User BCU2222 has cash 1000.0
+2020-10-24:10-59-44: Purchase result from ON :  2 Out of stock for item ON6231
+2020-10-24:11-02-47:  = purchaseItem was called on server BC for customer: BCU2222 and item: QC6651
+2020-10-24:11-02-47:  - User BCU2222 has cash 1000.0
+2020-10-24:11-02-47: Purchase result from QC :  0 Purchase completed successfully on server QC for customer: BCU2222 and item: QC6651
+2020-10-24:11-03-38:  = purchaseItem was called on server BC for customer: BCU2222 and item: QC6231
+2020-10-24:11-03-38:  - User BCU2222 has cash 970.0
+2020-11-14:01-35-07:  = Starting BC Server
+2020-11-14:01-36-40:  = Starting BC Server
+2020-11-14:01-37-20:  = Starting BC Server
+2020-11-14:01-38-02:  = Starting BC Server
+2020-11-14:01-51-15:  = Starting BC Server
+2020-11-14:02-02-25:  = Starting BC Server
+2020-11-14:02-06-00:  = StoreServer - Starting BC Server
+2020-11-14:02-07-58:  = StoreServer - Starting BC Server
+2020-11-14:02-10-56:  == StoreServer - Starting BC Server
+2020-11-14:02-12-02:  == StoreServer - Starting BC Server
+2020-11-14:02-14-52:  == StoreServer - Starting BC Server
+2020-11-14:05-58-10:  == StoreServer - Starting BC Server
+2020-11-14:06-08-16:  == StoreServer - Starting BC Server
+2020-11-14:07-20-59:  == StoreServer - Starting BC Server
+2020-11-14:07-39-54:  == StoreServer - Starting BC Server
+2020-11-14:07-40-29:  == StoreServer - Starting BC Server

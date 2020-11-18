@@ -1,0 +1,12 @@
+2020-10-24:07-41-40: Starting Client log for QCM1111
+2020-10-24:07-41-40: Your requests will go to server: QC
+2020-10-24:07-42-00:  == add Item completed
+2020-10-24:07-42-36: Starting Client log for QCM1111
+2020-10-24:07-42-36: Your requests will go to server: QC
+2020-10-24:07-42-57:  == add Item completed
+2020-10-24:07-43-09: Starting Client log for QCM1111
+2020-10-24:07-43-09: Your requests will go to server: QC
+2020-10-24:07-43-11: List item results: QC1234 TEA 1 30.0 QC0001 QC test 1 156 125.6 QC1111 XYZ 1 40.0 
+2020-10-24:10-32-19: Starting Client log for QCM1111
+2020-10-24:10-32-19: Your requests will go to server: QC
+2020-10-24:10-32-34:  == add Item completed

@@ -1,0 +1,3 @@
+2020-10-24:03-55-46: Starting Client log for ONM4455
+2020-10-24:03-55-46: Your requests will go to server: ON
+2020-10-24:03-56-01:  == add Item completed
